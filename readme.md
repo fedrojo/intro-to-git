@@ -8,8 +8,12 @@ git log
 
 git add -A (All files & folders)
 git add *.html 
+git reset HEAD XXX (Remove from stating area)
 
-git reset HEAD
+
+git branch
+git checkout -b xxxxx  (Create branch)
+git checkout xxxxx      (Switch branch)
 
 
 # Working Directory
@@ -21,5 +25,13 @@ git reset HEAD
 
 # Git Repository
 - Where all our snapshots are stored
+
+# Git branches
+- Listing all branches
+- Adding a branches
+- Changing branches
+- Merging a branch
+- Removing a branch
+
  
 
