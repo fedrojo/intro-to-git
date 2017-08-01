@@ -9,6 +9,7 @@ git log
 git add -A (All files & folders)
 git add *.html 
 
+git reset HEAD
 
 
 # Working Directory
