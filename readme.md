@@ -15,6 +15,13 @@ git branch
 git checkout -b xxxxx  (Create branch)
 git checkout xxxxx      (Switch branch)
 
+git merge xxxxx  (merge branch)
+
+git branch -d xxxx (delete branch)
+
+git checkout xxxxx (xxxx = id from log)
+
+git remote -v
 
 # Working Directory
 - Area where all of our files and directories and changes are living all the time
